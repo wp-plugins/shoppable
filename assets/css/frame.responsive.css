@@ -533,7 +533,7 @@ a.lux-cart-frame:hover,
 }
 .product-grid .product-image .product-image-src {
   width: 228px;
-  /*height: 320px;*/
+  height: 320px;
   background-position: center center;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
