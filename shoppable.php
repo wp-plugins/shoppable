@@ -3,7 +3,7 @@
     Plugin Name: Shoppable.co Frames
     Plugin URI: http://docs.72lux.com/wordpress-installation.html
     Description: Makes it easy to setup Shoppable and display product and cart frames.  <strong>Permalink settings must be changed from default.  For the cart to display properly, your theme must contain Widget Areas.</strong>
-    Version: 1.2.8
+    Version: 1.2.9
     Author: 72Lux
     Author URI: http://www.shoppable.com/
   */
